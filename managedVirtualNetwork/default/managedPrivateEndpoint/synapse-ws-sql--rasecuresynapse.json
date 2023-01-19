@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--rasecuresynapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/724383fa-9355-4fbd-a612-c5f166565a51/resourceGroups/RA4/providers/Microsoft.Synapse/workspaces/rasecuresynapse",
+		"groupId": "sql",
+		"fqdns": [
+			"rasecuresynapse.633d1f7c-ff37-4f4b-b1f3-f7c99e18c251.sql.azuresynapse.net"
+		]
+	}
+}

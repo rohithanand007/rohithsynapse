@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--rasecuresynapse-ragen2data",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/724383fa-9355-4fbd-a612-c5f166565a51/resourceGroups/RA4/providers/Microsoft.Storage/storageAccounts/ragen2data",
+		"groupId": "dfs"
+	}
+}
